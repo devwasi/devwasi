@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waseem</h1>
 <h3 align="center">A passionate frontend developer who love coding and problem solving and soon will be a React developer</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=devwasi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning **javaScript and it's frameWork**
 
 - 🤝 I’m interested in **solving problems**
